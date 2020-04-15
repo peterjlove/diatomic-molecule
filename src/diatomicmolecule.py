@@ -1,4 +1,4 @@
-﻿"""Function for building a diatomic molecule."""
+"""Function for building a diatomic molecule."""
 
 def create_diatomic_molecule_geometry(species1, species2, bond_length):
     """Create a molecular geometry for a diatomic molecule.
